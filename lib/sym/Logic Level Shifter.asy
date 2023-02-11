@@ -1,0 +1,28 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 64 -32 48 -32
+LINE Normal 64 -16 48 -16
+LINE Normal 64 0 48 0
+LINE Normal 64 16 48 16
+LINE Normal 64 32 48 32
+LINE Normal 64 48 48 48
+LINE Normal -48 -32 -32 -32
+LINE Normal -48 -16 -32 -16
+LINE Normal -48 0 -32 0
+LINE Normal -48 16 -32 16
+LINE Normal -48 32 -32 32
+LINE Normal -48 48 -32 48
+RECTANGLE Normal 48 64 -32 -48
+TEXT -32 -32 Left 0 HV1
+TEXT -32 -16 Left 0 HV2
+TEXT -32 0 Left 0 HV
+TEXT -32 16 Left 0 GND
+TEXT -32 32 Left 0 HV3
+TEXT -32 48 Left 0 HV4
+TEXT 48 -32 Right 0 LV1
+TEXT 48 -16 Right 0 LV2
+TEXT 48 0 Right 0 LV
+TEXT 48 16 Right 0 GND
+TEXT 48 32 Right 0 LV3
+TEXT 48 48 Right 0 LV4
+TEXT 6 6 VCenter 2 KYES505

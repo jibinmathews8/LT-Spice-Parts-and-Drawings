@@ -1,0 +1,10 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 32 0 16 0
+LINE Normal -32 0 -16 0
+LINE Normal 0 32 0 16
+RECTANGLE Normal 16 16 -16 -16
+TEXT -11 0 Left 0 7805
+TEXT -30 -6 Left 0 IN
+TEXT 16 -6 Left 0 OUT
+TEXT 2 24 Left 0 GND

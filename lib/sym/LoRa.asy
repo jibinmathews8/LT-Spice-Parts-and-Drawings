@@ -1,0 +1,18 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -32 -48 -32 -32
+LINE Normal -16 -48 -16 -32
+LINE Normal 0 -48 0 -32
+LINE Normal 16 -48 16 -32
+LINE Normal 48 -48 48 -32
+LINE Normal 64 -48 64 -32
+LINE Normal 32 -48 32 -32
+RECTANGLE Normal 80 64 -48 -32
+TEXT -32 -32 VRight 0 M0
+TEXT -16 -32 VRight 0 M1
+TEXT 0 -32 VRight 0 RxD
+TEXT 16 -32 VRight 0 TxD
+TEXT 48 -32 VRight 0 Vcc
+TEXT 64 -32 VRight 0 GND
+TEXT -40 -10 VRight 0 E32-915T20D
+TEXT 32 -32 VRight 0 Aux
